@@ -1,27 +1,9 @@
-# 威海麻将客户端
+# 麻将客户端
 
 ----
-
-![screen_shoot_0](./screenshoot/screen_shoot_0.png)
-![screen_shoot_4](./screenshoot/screen_shoot_4.png)
-![screen_shoot_2](./screenshoot/screen_shoot_2.png)
-![screen_shoot_3](./screenshoot/screen_shoot_3.png)
-
-威海地方玩法麻将，Cocos 客户端代码，使用 Cocos Creator 2.4.5 编辑开发。
+Cocos 客户端代码，使用 Cocos Creator 2.4.5 编辑开发。
 
 代码开发环境是 VSCode，开发语言采用 TypeScript。
-
-客户端演示地址如下：
-
-http://cdn0001.afrxvk.cn/whmj/go.html
-
-如果想要连接自己的本地服务器，可以使用如下地址：
-
-http://cdn0001.afrxvk.cn/whmj/go.html?serverAddr=127.0.0.1:20480
-
-**与之相配的服务端代码，请参见：**
-
-https://github.com/hjj2017/whmj.java_server
 
 ## 特别注意
 
